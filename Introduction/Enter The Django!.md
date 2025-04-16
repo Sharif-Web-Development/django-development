@@ -8,12 +8,12 @@
 
 Django was created by two people named Adrian Holovaty and Simon Willison back in 2003. It grew from a practical need: World Online, a newspaper web operation responsible for building intensive web applications on journalism deadlines.
 
-| ![[Pasted image 20250416225820.png]] | ![[Pasted image 20250416225703.png]] |
+| ![[chad_number_one.png]] | ![[chad_number_two.png]] |
 | ------------------------------------ | ------------------------------------ |
 > The chads behind Django!
 
 
-![[Pasted image 20250416230038.png]]
+![[reinhardt.png]]
 > Django Reinhardt, the musician after whom Django was named.
 
 ## Django's Philosophy
