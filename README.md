@@ -17,7 +17,8 @@ This repository is a tutorial for web development with Django, a batteries-inclu
     - Web Development Methodologies
     - API: Introduction, SOAP, REST
 - Django I: The Basics
-	  - 
+	- [Getting Started with Django](Django%20I%20-%20The%20Basics/Getting%20Started%20with%20Django.md)
+	- [Django Structure](Django%20I%20-%20The%20Basics/Django%20Structure.md)
 - Django II: 
 - Django III: 
 - Django Rest Framework
