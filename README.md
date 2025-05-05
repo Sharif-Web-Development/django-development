@@ -16,6 +16,7 @@ This repository is a tutorial for web development with Django, a batteries-inclu
     - [A Quick Review of Design Patterns]()
     - [Software Architecture Basics]()
     - [Fundamental System Design Concepts]()
+    - [SOLID Principles]()
     - [Web Development Methodologies]()
     - [API Paradigms: Introduction, SOAP, REST]()
 - Django I: The Basics
