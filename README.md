@@ -13,8 +13,8 @@ This repository is a tutorial for web development with Django, a batteries-inclu
     - [Alternatives to Django](Introduction/Alternatives%20to%20Django.md)
     - [How the Web Works]()
 - Software Architecture Basics for Web Development
-    - [A Quick Review of Design Patterns]()
-    - [Software Architecture Basics]()
+    - [A Quick Review of Design Patterns](Software%20Architecture%20Basics%20for%20Web%20Development/A%20Quick%20Review%20of%20Design%20Patterns.md)
+    - [Software Architecture this.Basics]()
     - [Fundamental System Design Concepts]()
     - [SOLID Principles]()
     - [Web Development Methodologies]()
